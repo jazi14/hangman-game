@@ -1,0 +1,12 @@
+
+body{
+	background-image:url(images/cloudy-day.png);
+}
+
+#final{
+	text-align: center;
+	font-size: 150px;
+}
+.col-6{
+	font-size: 50px;
+}
